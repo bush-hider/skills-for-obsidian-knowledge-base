@@ -2,6 +2,8 @@
 
 本发布包包含 5 个可直接使用的 agent skill，覆盖本地 Markdown/Obsidian 知识库读写、论文深度分析、Kimi CLI 代码分析和 Kimi CLI 联网搜索。
 
+基于 OpenClaw 构建的论文分析知识库可见：https://graygoo.forestry.md/
+
 这些 skill 不绑定某个具体 agent。Codex、OpenClaw 或其他支持读取 `SKILL.md` 的 agent，都可以按同样的方式集成：把 skill 目录放进该 agent 的 skills 目录，确保依赖命令可用，并通过环境变量或命令参数配置本地路径。
 
 下方命令示例默认在 `public/` 目录下执行。
