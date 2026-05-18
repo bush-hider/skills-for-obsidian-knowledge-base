@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge Base Reader"
+  short_description: "Search and cite markdown knowledge-base notes."
+  default_prompt: "Use $knowledge-base-reader to search my markdown knowledge base and answer with note citations."

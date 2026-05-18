@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kimi CLI Web Search"
+  short_description: "Use Kimi CLI for web search and source discovery."
+  default_prompt: "Use $kimi-cli-web-search to search for current sources, verify key claims, and summarize with citations."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kimi CLI"
+  short_description: "Use Kimi Code CLI for staged repository analysis."
+  default_prompt: "Use $kimi-cli to run a staged Kimi CLI analysis of this repository and summarize verified findings."

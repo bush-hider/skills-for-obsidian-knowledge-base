@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge Base Paper Analysis"
+  short_description: "Analyze research papers and create structured knowledge-base notes."
+  default_prompt: "Use $knowledge-base-paper-analysis to deeply analyze this paper and prepare a structured knowledge-base note."

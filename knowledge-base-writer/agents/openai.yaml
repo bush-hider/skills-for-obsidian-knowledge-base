@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge Base Writer"
+  short_description: "Create and verify structured markdown knowledge-base notes."
+  default_prompt: "Use $knowledge-base-writer to add a structured note to my markdown knowledge base."
